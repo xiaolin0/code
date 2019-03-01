@@ -59,6 +59,6 @@ public class Main{
 			}
 			System.out.println();
 		}
-		System.out.println("圣诞快乐发射点立刻反击了");
+		System.out.println("输出结束");
 	}
 }
