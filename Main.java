@@ -44,7 +44,6 @@ public class Main{
 			arr[x+jj][arr[0].length-1-tx]='$';
 			prin(arr);
 		}
-		System.out.println("½áÊø");
 		prin(arr);
 		
 	}
